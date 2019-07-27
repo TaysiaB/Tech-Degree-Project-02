@@ -6,6 +6,7 @@
 
 body {
     margin: 40%;
+    background-color: lightgrey;
 }
 /*title font*/
 h1,
@@ -21,8 +22,17 @@ nav {
     font-weight: 200;
 }
 
+ul {
+    list-style: none;
+}
+
+li {
+    background-color: white;
+}
+
 .head-name {
     text-align: center;
+    font: darker-grotesque;
     font-size: 1.5em;
     font-weight: 250;
 }
