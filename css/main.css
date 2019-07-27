@@ -58,8 +58,13 @@ li {
     font-weight: 250;
 }
 
+img {
+    margin: 0 auto;
+}
+
 .profile-img {
-    margin:50%;
+    display: block;
+    width: 75%;
 }
 
 
