@@ -4,15 +4,26 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 40%;
+}
 /*title font*/
+h1,
+h2,
+h3 {
+    font: darker-grotesque;
+}
 
 nav {
     text-align: center;
     width:100%;
-    padding: 10px, 10px;
+    padding: 10px;
+    font-weight: 200;
 }
 
 .head-name {
     text-align: center;
     font-size: 1.5em;
+    font-weight: 250;
 }
+
