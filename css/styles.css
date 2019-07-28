@@ -144,7 +144,7 @@ footer p {
         width: 40%;
         margin: 0 auto;
         text-decoration: none;
-        background-color: none;
+        background: none;
     }
 
     ul a {
@@ -154,7 +154,7 @@ footer p {
 
     li {
         display: inline-block;
-        background-color: none;
+        background: none;
     }
     
     .nav {
