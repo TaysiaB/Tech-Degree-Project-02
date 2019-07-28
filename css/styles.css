@@ -137,6 +137,7 @@ footer p {
     }
 
     .nav-bottom {
+        display:block;
         flex-direction: row;
     }
 
