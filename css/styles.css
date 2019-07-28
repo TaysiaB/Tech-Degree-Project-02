@@ -29,9 +29,12 @@ h3 {
     font-size: 2em;
     font-weight: 350;
 }
+.nav-bottom {
+    display: none;
+}
 
 .main-header,
-.nav {
+nav {
     display: flex;
     flex-direction: column;
 }
@@ -129,7 +132,11 @@ footer p {
 
 @media screen and (min-width: 768px) {
 
-    .nav {
+    nav {
+        flex-direction: row;
+    }
+
+    .nav-bottom {
         flex-direction: row;
     }
 
@@ -143,6 +150,10 @@ footer p {
         float: right;
         width: 50%;
         margin: 15px;
+    }
+
+    .back-to-top {
+        display: none;
     }
 }
 
