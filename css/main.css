@@ -73,8 +73,10 @@ img {
 }
 
 p {
+    display: block;
     line-height: 25px;
     margin: 0 auto;
+    max-width: 50%;
 }
 
 footer h1 {
