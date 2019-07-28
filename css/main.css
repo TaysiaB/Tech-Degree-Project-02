@@ -78,7 +78,7 @@ p {
     margin: 0 auto;
     max-width: 50%;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 footer h1 {
@@ -91,6 +91,11 @@ footer p {
     float: right;
     width: 50%;
     font-size: .25em;
+}
+
+.contact-info {
+    display: inline-block;
+    margin: 0 auto;
 }
 
 .portfolio {
