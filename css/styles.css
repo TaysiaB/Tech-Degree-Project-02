@@ -136,10 +136,15 @@ footer p {
 
 @media screen and (min-width: 768px) {
 
+    nav {
+        width: 40%;
+        margin: 0 auto;
+    }
+    
     .nav {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-around;
     }
 
     .nav-bottom {
