@@ -165,6 +165,12 @@ footer p {
     .back-to-top {
         display: none;
     }
+
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+        }
 }
 
 @media screen and (min-width: 1024px) {
