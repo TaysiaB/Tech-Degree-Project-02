@@ -1,6 +1,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap');
 </style>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+</style>
 
 /*----Global Layout Setup----*/
 
@@ -47,6 +50,7 @@ nav a {
     text-align: center;
     padding: .5em;
     border: whitesmoke 5px solid;
+    font-family: 'Roboto', sans-serif;
 }
 
 nav a:hover {
@@ -142,12 +146,14 @@ footer p {
         text-decoration: none;
     }
 
-    a {
+    ul a {
         text-decoration: none;
+        font-family: 'Roboto', sans-serif;
     }
 
     li {
         display: inline-block;
+        background-color: none;
     }
     
     .nav {
