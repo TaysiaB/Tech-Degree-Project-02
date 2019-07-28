@@ -144,6 +144,7 @@ footer p {
         width: 40%;
         margin: 0 auto;
         text-decoration: none;
+        background-color: none;
     }
 
     ul a {
@@ -188,5 +189,5 @@ footer p {
 
 @media screen and (min-width: 1024px) {
 
-
+   
 }
