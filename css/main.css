@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap);
+<style>
+@import url('https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap');
+</style>
 /*----Global Layout Setup----*/
 
 *{
@@ -14,7 +16,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: 'darker grotesque', times 'Times New Roman', Times, serif;
+    font-family: 'Darker Grotesque', sans-serif;
 }
 
 .main-header,
@@ -36,6 +38,7 @@ nav a {
     padding: .5em;
     margin-bottom: 5px;
     margin-top: 5px;
+    border: whitesmoke 5px solid;
 }
 
 nav a:hover {
@@ -61,12 +64,17 @@ li {
 img {
     margin: 0 auto;
     display: block;
-    width: 45%;
+    width: 35%;
 }
 
 .profile-img {
     display: block;
-    width: 55%;
+    width: 45%%;
+}
+
+p {
+    max-width: 50%;
+    line-height: .5em;
 }
 
 
