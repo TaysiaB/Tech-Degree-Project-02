@@ -148,9 +148,10 @@ footer h1 {
         background: none;
     }
 
-    ul a {
+    .nav-bottom ul {
         text-decoration: none;
         font-family: 'Roboto', sans-serif;
+        color: slategrey;
     }
 
     li {
@@ -163,7 +164,7 @@ footer h1 {
         flex-direction: row;
         justify-content: space-around;
     }
-    
+
     .nav-bottom {
         display: flex;
         flex-direction: row;
