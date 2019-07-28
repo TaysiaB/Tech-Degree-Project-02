@@ -1,6 +1,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap');
 </style>
+
 /*----Global Layout Setup----*/
 
 *{
@@ -17,6 +18,7 @@ h1,
 h2,
 h3 {
     font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
 }
 
 .main-header,
@@ -75,10 +77,30 @@ img {
 p {
     max-width: 50%;
     line-height: .5em;
+    text-align: center;
+}
+
+footer h1 {
+    float: left;
+    width: 50%;
+    font-size:.75em;
+}
+
+footer p {
+    float: right;
+    width: 50%;
+    font-size: .25em;
 }
 
 
 /*----Media Queries----*/
 
+@media screen and (min-width: 768px) {
 
 
+}
+
+@media screen and (min-width: 1024px) {
+
+
+}
