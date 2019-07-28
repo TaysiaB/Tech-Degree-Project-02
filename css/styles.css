@@ -163,7 +163,7 @@ footer h1 {
         flex-direction: row;
         justify-content: space-around;
     }
-/*
+    
     .nav-bottom {
         display: flex;
         flex-direction: row;
@@ -171,36 +171,7 @@ footer h1 {
         margin: 0px, 15px;
         text-decoration: none;
     }
-*/
-.nav-bottom {
-    display: flex;
-    flex-direction: column;
-    width: 40%
-}
 
-.nav-bottom a {
-    display: block;
-    color: darkslategrey;
-    font-size: 1em;
-    font-weight: 250;
-    text-align: center;
-    padding: .5em;
-    border: whitesmoke 5px solid;
-    font-family: 'Roboto', sans-serif;
-}
-
-.nav-bottom a:hover {
-    color: orangered;
-}
-
-ul {
-    list-style: none;
-}
-
-li {
-    background-color: none;
-    text-transform: uppercase;
-}
     .portfolio-item {
         float: left;
         width: 50%;
