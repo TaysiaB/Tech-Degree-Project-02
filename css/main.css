@@ -76,7 +76,7 @@ img {
 
 p {
     max-width: 50%;
-    line-height: .5em;
+    line-height: 25px;
     text-align: center;
 }
 
@@ -92,6 +92,13 @@ footer p {
     font-size: .25em;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+
+    
 
 /*----Media Queries----*/
 
