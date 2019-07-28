@@ -139,6 +139,15 @@ footer p {
     nav {
         width: 40%;
         margin: 0 auto;
+        text-decoration: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    li {
+        display: inline-block;
     }
     
     .nav {
@@ -151,7 +160,7 @@ footer p {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        margin-left: 15px;
+        margin: 0px, 15px;
         text-decoration: none;
     }
 
