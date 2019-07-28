@@ -191,5 +191,10 @@ footer h1 {
 
 @media screen and (min-width: 1024px) {
 
+    .main-header {
+        display: flex;
+        justify-content: space-between;
+        padding: 2% 0;
+    }
    
 }
