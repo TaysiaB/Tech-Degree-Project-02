@@ -151,13 +151,13 @@ footer p {
 
     .portfolio-left {
         float: left;
-        width: 50%;
+        max-width: 50%;
         margin: 15px;
     }
 
     .portfolio-right {
         float: right;
-        width: 50%;
+        max-width: 50%;
         margin: 15px;
     }
 
