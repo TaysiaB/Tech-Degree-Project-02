@@ -71,6 +71,12 @@ li {
     width: 45%%;
 }
 
+.skills {
+    background-color: lightcoral;
+    margin: 0 auto;
+    width: 100%;
+}
+
 /*----Base Markup Styles----*/
 
 a,
