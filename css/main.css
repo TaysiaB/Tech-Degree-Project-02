@@ -135,12 +135,14 @@ footer p {
 
     .portfolio-left {
         float: left;
-        max-width: 50%;
+        width: 50%;
+        margin: 15px;
     }
 
     .portfolio-right {
         float: right;
-        max-width: 50%;
+        width: 50%;
+        margin: 15px;
     }
 }
 
