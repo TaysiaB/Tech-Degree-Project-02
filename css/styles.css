@@ -72,7 +72,7 @@ li {
 }
 
 #skills {
-    background-color: lightcoral;
+    background-color: lightsalmon;
     margin: 0 auto;
     width: 100%;
 }
@@ -112,6 +112,7 @@ footer h1 {
 }
 
 .back-to-top {
+    color: slategrey;
     text-decoration: none;
 }
 
@@ -172,36 +173,37 @@ footer h1 {
         text-decoration: none;
     }
 */
-.nav-bottom {
-        width: 40%;
-        margin: 0 auto;
-        text-decoration: none;
-        background: none;
-}
+    .nav-bottom {
+            width: 40%;
+            margin: 0 auto;
+            text-decoration: none;
+            background: none;
+    }
 
-.nav-bottom a {
-    display: block;
-    color: darkslategrey;
-    font-size: 1em;
-    font-weight: 250;
-    text-align: center;
-    padding: .5em;
-    border: whitesmoke 5px solid;
-    font-family: 'Roboto', sans-serif;
-}
+    .nav-bottom a {
+        display: block;
+        color: darkslategrey;
+        font-size: 1em;
+        font-weight: 250;
+        text-align: center;
+        padding: .5em;
+        border: whitesmoke 5px solid;
+        font-family: 'Roboto', sans-serif;
+        background-color: none;
+    }
 
-.nav-bottom a:hover {
-    color: orangered;
-}
+    .nav-bottom a:hover {
+        color: orangered;
+    }
 
-ul {
-    list-style: none;
-}
+    ul {
+        list-style: none;
+    }
 
-li {
-    background-color: none;
-    text-transform: uppercase;
-}
+    li {
+        background-color: none;
+        text-transform: uppercase;
+    }
     .portfolio-item {
         float: left;
         width: 50%;
