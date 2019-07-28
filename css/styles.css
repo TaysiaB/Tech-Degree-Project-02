@@ -107,6 +107,10 @@ footer p {
     Font-size: 1.5em;
 }
 
+.back-to-top {
+    text-decoration: none;
+}
+
 .contact-info {
     display: block;
     margin: 0 auto;
@@ -134,11 +138,15 @@ footer p {
 
     nav {
         flex-direction: row;
+        justify-content: space-between;
     }
 
     .nav-bottom {
         display:block;
         flex-direction: row;
+        justify-content: space-between;
+        margin-left: 15px;
+        text-decoration: none;
     }
 
     .portfolio-left {
