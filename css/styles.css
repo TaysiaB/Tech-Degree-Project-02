@@ -173,8 +173,10 @@ footer h1 {
     }
 */
 .nav-bottom {
-    display: flex;
-    flex-direction: column;
+        width: 40%;
+        margin: 0 auto;
+        text-decoration: none;
+        background: none;
 }
 
 .nav-bottom a {
@@ -197,7 +199,7 @@ ul {
 }
 
 li {
-    background-color: white;
+    background-color: none;
     text-transform: uppercase;
 }
     .portfolio-item {
