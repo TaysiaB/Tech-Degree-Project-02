@@ -177,7 +177,6 @@ footer h1 {
             width: 40%;
             margin: 0 auto;
             text-decoration: none;
-            background: none;
     }
 
     .nav-bottom a {
@@ -189,7 +188,6 @@ footer h1 {
         padding: .5em;
         border: whitesmoke 5px solid;
         font-family: 'Roboto', sans-serif;
-        background-color: none;
     }
 
     .nav-bottom a:hover {
