@@ -21,16 +21,21 @@ h3 {
     text-align: center;
 }
 
+/*----Header Styles----*/
+
+.head-name {
+    text-align: center;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 1.5em;
+    font-weight: 350;
+}
+
 .main-header,
 .nav {
     display: flex;
     flex-direction: column;
-
 }
 
-a {
-    text-decoration: none;
-}
 nav a {
     display: block;
     color: darkslategrey;
@@ -54,22 +59,21 @@ li {
     text-transform: uppercase;
 }
 
-.head-name {
-    text-align: center;
-    font: darker-grotesque;
-    font-size: 1.5em;
-    font-weight: 250;
+.profile-img {
+    display: block;
+    width: 45%%;
+}
+
+/*----Base Markup Styles----*/
+
+a {
+    text-decoration: none;
 }
 
 img {
     margin: 0 auto;
     display: block;
     width: 55%;
-}
-
-.profile-img {
-    display: block;
-    width: 45%%;
 }
 
 p {
@@ -80,6 +84,8 @@ p {
     text-align: center;
     padding: 20px;
 }
+
+/*----Footer Styles----*/
 
 footer h1 {
     float: left;
@@ -93,14 +99,22 @@ footer p {
     font-size: .25em;
 }
 
+.footer-name {
+    Font-size: 1.5em;
+}
+
 .contact-info {
     display: inline-block;
     margin: 0 auto;
 }
 
+/*----Portfolio Styles----*/
+
 .portfolio {
     background-color: white;
 }
+
+/*----Float Clearfix----*/
 
 .clearfix::after {
     content: "";
