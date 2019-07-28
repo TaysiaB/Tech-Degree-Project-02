@@ -150,16 +150,9 @@ footer p {
         text-decoration: none;
     }
 
-    .portfolio-left {
+    .portfolio-item {
         float: left;
-        max-width: 50%;
-        margin: 15px;
-    }
-
-    .portfolio-right {
-        float: right;
-        max-width: 50%;
-        margin: 15px;
+        width: 50%;
     }
 
     .back-to-top {
