@@ -72,7 +72,7 @@ li {
 }
 
 #skills {
-    background-color: goldenrod;
+    background-color: rgb(245, 230, 92);
     margin: 0 auto;
     width: 100%;
 }
@@ -192,9 +192,10 @@ footer h1 {
 @media screen and (min-width: 1024px) {
 
     .main-header {
-        display: flex;
-        justify-content: space-between;
-        padding: 2% 0;
+        flex-direction: row;
     }
    
+    .head-name {
+        margin-right: auto;
+    }
 }
