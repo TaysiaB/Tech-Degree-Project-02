@@ -38,8 +38,6 @@ nav a {
     font-weight: 250;
     text-align: center;
     padding: .5em;
-    margin-bottom: 5px;
-    margin-top: 5px;
     border: whitesmoke 5px solid;
 }
 
@@ -92,13 +90,17 @@ footer p {
     font-size: .25em;
 }
 
+.portfolio {
+    background-color: white;
+}
+
 .clearfix::after {
     content: "";
     clear: both;
     display: table;
     }
 
-    
+
 
 /*----Media Queries----*/
 
