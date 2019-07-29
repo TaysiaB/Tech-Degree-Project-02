@@ -171,6 +171,7 @@ footer h1 {
         flex-direction: row;
         justify-content: space-between;
         margin: 0px, 15px;
+        color: slategrey;
         text-decoration: none;
     }
 
