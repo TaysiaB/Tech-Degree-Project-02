@@ -194,8 +194,12 @@ footer h1 {
     .head-name {
         margin-right: auto;
     }
-    
+
     .nav {
         flex-direction: row;align-items;
+    }
+
+    .portfolio-item {
+        width: 40%;
     }
 }
