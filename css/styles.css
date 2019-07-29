@@ -196,12 +196,12 @@ footer h1 {
     }
 
     .head-name {
-        margin-right: auto;
+        width: 40%;
     }
 
     .nav {
         margin-top: 0;
-        align-self: center;
+        width: 60%;
     }
 
     .nav li {
