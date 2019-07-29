@@ -196,12 +196,12 @@ footer h1 {
     }
 
     .head-name {
-        width: 40%;
+        margin-right: auto;
     }
 
     .nav {
         margin-top: 0;
-        width: 60%;
+        align-self: center;
     }
 
     .nav li {
@@ -210,7 +210,7 @@ footer h1 {
     }
 
     .portfolio-item {
-        vertical-align: middle;
+        position: relative;
     }
 
 }
