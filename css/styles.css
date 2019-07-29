@@ -200,6 +200,6 @@ footer h1 {
     }
 
     .portfolio-item {
-        overflow: hidden;
+        display: inline;
     }
 }
