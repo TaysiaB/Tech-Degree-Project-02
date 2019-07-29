@@ -83,6 +83,7 @@ li {
 a,
 h2 {
     text-decoration: none;
+    color: darkslategrey;
 }
 
 img {
@@ -152,13 +153,11 @@ footer h1 {
     .nav-bottom ul {
         text-decoration: none;
         font-family: 'Roboto', sans-serif;
-        color: slategrey;
     }
 
     li {
         display: inline-block;
         background: none;
-        color: slategrey;
     }
     
     .nav {
@@ -176,7 +175,7 @@ footer h1 {
     }
 
     .nav-bottom a {
-        color: slategrey;
+        color: darkslategrey;
     }
 
     .portfolio-item {
