@@ -196,10 +196,11 @@ footer h1 {
         flex-direction: row;
     }
 
+    /*
     .nav {
         margin-top: 0;
         align-self: center;
-    }
+    } */
 
     .nav li {
         margin-left: .65em;
