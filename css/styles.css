@@ -158,6 +158,7 @@ footer h1 {
     li {
         display: inline-block;
         background: none;
+        color: slategrey;
     }
     
     .nav {
@@ -171,8 +172,11 @@ footer h1 {
         flex-direction: row;
         justify-content: space-between;
         margin: 0px, 15px;
-        color: slategrey;
         text-decoration: none;
+    }
+
+    .nav-bottom a {
+        color: slategrey;
     }
 
     .portfolio-item {
