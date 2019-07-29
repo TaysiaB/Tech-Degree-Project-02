@@ -206,6 +206,10 @@ footer h1 {
         align-self: right;
     }
 
+    ul {
+        padding: 0;
+    }
+    
     .portfolio-item {
         position: relative;
     }
