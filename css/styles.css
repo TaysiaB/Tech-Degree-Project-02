@@ -189,14 +189,19 @@ footer h1 {
         }
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1024px) {
+
+    .main-header,
+    nav {
+        flex-direction: row;align-items;
+    }
 
     .head-name {
         margin-right: auto;
     }
 
     .nav {
-        flex-direction: row;align-items;
+
     }
 
 }
