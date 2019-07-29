@@ -199,6 +199,9 @@ footer h1 {
         margin-right: 0;
     }
 
+    nav {
+        margin-right: 0;
+    }
     .nav li {
         align-self: right;
     }
