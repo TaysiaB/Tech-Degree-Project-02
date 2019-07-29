@@ -195,6 +195,11 @@ footer h1 {
         flex-direction: row;align-items;
     }
 
+    .header-nav {
+        display: flex;
+        flex-direction: row;
+    }
+    
     .head-name {
         margin-right: auto;
     }
@@ -212,5 +217,4 @@ footer h1 {
     .portfolio-item {
         position: relative;
     }
-
 }
