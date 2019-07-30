@@ -116,6 +116,7 @@ footer h1 {
 .back-to-top {
     text-decoration: none;
     color: darkslategrey;
+    margin-bottom: 0;
 }
 
 .contact-info {
@@ -154,11 +155,14 @@ footer h1 {
     .nav-bottom ul {
         text-decoration: none;
         font-family: 'Roboto', sans-serif;
+        margin-bottom: 0;
+        
     }
 
     li {
         display: inline-block;
         background: none;
+        padding: 5px;
     }
     
     .nav {
