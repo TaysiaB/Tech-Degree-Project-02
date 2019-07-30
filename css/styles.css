@@ -226,8 +226,9 @@ footer h1 {
     .profile-img {
         float: right;
         width: 50%;
-        width: 450px;
+        width: 475px;
         height: 300px;
+        margin-right 5px;
     }
 
     .profile-p {
