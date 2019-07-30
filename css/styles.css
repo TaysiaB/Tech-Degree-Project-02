@@ -224,4 +224,9 @@ footer h1 {
         float: right;
         width: 50%;
     }
+
+    .profile-p {
+        padding-right: 30px;
+        margin-left: 5px;
+    }
 }
