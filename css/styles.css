@@ -172,11 +172,21 @@ footer h1 {
     }
 
     .nav-bottom {
-        display: flex;
+        display: block;
+        color: darkslategrey;
+        font-size: 1em;
+        font-weight: 250;
+        text-align: center;
+        padding: .5em;
+        border: whitesmoke 5px solid;
+        font-family: 'Roboto', sans-serif;
+        
+        
+        /*display: flex;
         flex-direction: row;
         justify-content: space-between;
         margin: 0px, 5px;
-        text-decoration: none;
+        text-decoration: none;*/
     }
 
     .nav-bottom a {
