@@ -193,6 +193,7 @@ footer h1 {
     .portfolio-item {
         float: left;
         width: 50%;
+        max-height: 330px;
     }
 
     .back-to-top {
