@@ -180,13 +180,6 @@ footer h1 {
         padding: .5em;
         border: whitesmoke 5px solid;
         font-family: 'Roboto', sans-serif;
-        
-        
-        /*display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        margin: 0px, 5px;
-        text-decoration: none;*/
     }
 
     .nav-bottom a {
@@ -233,7 +226,7 @@ footer h1 {
     .profile-img {
         float: right;
         width: 50%;
-        width: 400px;
+        width: 450px;
         height: 300px;
     }
 
