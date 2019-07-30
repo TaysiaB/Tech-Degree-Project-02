@@ -219,4 +219,9 @@ footer h1 {
         float: left;
         width: 33.3%;
     }
+
+    .header-intro {
+        float: right;
+        width: 50%;
+    }
 }
