@@ -199,6 +199,19 @@ footer h1 {
         display: none;
     }
 
+    .profile-img {
+        float: right;
+        width: 50%;
+        width: 475px;
+        height: 300px;
+        margin-right 5px;
+    }
+
+    .profile-p {
+        padding-right: 30px;
+        margin-left: 5px;
+    }
+
     .clearfix::after {
         content: "";
         clear: both;
@@ -225,18 +238,5 @@ footer h1 {
     .portfolio-item {
         float: left;
         width: 33.3%;
-    }
-
-    .profile-img {
-        float: right;
-        width: 50%;
-        width: 475px;
-        height: 300px;
-        margin-right 5px;
-    }
-
-    .profile-p {
-        padding-right: 30px;
-        margin-left: 5px;
     }
 }
