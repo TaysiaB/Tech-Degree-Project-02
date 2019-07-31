@@ -103,7 +103,7 @@ p {
 
 /*----Footer Styles----*/
 
-footer h1 {
+footer h2 {
     float: left;
     width: 50%;
     font-size:.75em;
@@ -194,6 +194,7 @@ footer h1 {
         float: left;
         width: 50%;
         max-height: 330px;
+        margin-bottom: 10px;
     }
 
     .back-to-top {
