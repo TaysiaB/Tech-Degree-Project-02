@@ -89,14 +89,14 @@ h2 {
 img {
     margin: 0 auto;
     display: block;
-    width: 55%;
+    width: 75%;
 }
 
 p {
     display: block;
     line-height: 25px;
     margin: 0 auto;
-    max-width: 50%;
+    width: 50%;
     text-align: center;
     padding: 20px;
 }
