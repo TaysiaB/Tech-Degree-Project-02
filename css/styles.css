@@ -159,14 +159,14 @@ footer h2 {
     .nav-bottom ul {
         text-decoration: none;
         font-family: 'Roboto', sans-serif;
-        margin-bottom: 0;
-        Font-size: 1.5em;       
+        margin-bottom: 0;     
     }
 
     li {
         display: inline-block;
         background: none;
-        padding: 0px, 5px;
+        padding: 5px;
+        Font-size: 1.5em;  
     }
     
     .nav {
