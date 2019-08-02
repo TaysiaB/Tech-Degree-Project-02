@@ -194,7 +194,7 @@ footer h2 {
     .portfolio-item {
         float: left;
         width: 50%;
-        max-height: 330px;
+        height: 350px;
         margin-bottom: 10px;
     }
 
