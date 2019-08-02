@@ -89,16 +89,15 @@ h2 {
 img {
     margin: 0 auto;
     display: block;
-    width: 75%;
+    width: 85%;
 }
 
 p {
     display: block;
-    line-height: 25px;
+    line-height: 24px;
     margin: 0 auto;
-    width: 75%;
+    width: 85%;
     text-align: center;
-    padding: 20px;
 }
 
 /*----Footer Styles----*/
@@ -116,7 +115,7 @@ footer h2 {
 .back-to-top {
     text-decoration: none;
     color: darkslategrey;
-    margin-bottom: 0;
+    Font-size: 1.5em;
 }
 
 .contact-info {
