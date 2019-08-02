@@ -259,4 +259,8 @@ footer h2 {
         width: 55%;
         text-align: left;
     }
+
+    .contact p {
+        margin: 0px;
+    }
 }
