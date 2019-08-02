@@ -69,7 +69,7 @@ li {
 
 .profile-img {
     display: block;
-    width: 45%%;
+    width: 35%%;
 }
 
 #skills {
@@ -173,6 +173,7 @@ footer h2 {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
+        margin-bottom: 0px;
     }
 
     .nav-bottom {
@@ -204,8 +205,8 @@ footer h2 {
     .profile-img {
         float: right;
         width: 50%;
-        width: 475px;
-        height: 300px;
+        width: 375px;
+        height: 200px;
         margin-right: 15px;
     }
 
