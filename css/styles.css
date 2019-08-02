@@ -166,6 +166,7 @@ footer h2 {
     li {
         display: inline-block;
         background: none;
+        padding: 0px, 5px;
     }
     
     .nav {
