@@ -185,6 +185,7 @@ footer h2 {
         padding: .5em;
         border: whitesmoke 5px solid;
         font-family: 'Roboto', sans-serif;
+        margin-bottom: 30px;
     }
 
     .nav-bottom a {
@@ -198,6 +199,10 @@ footer h2 {
         margin-bottom: 10px;
     }
 
+    .footer-name {
+        margin-bottom: 30px;
+    }
+    
     .back-to-top {
         display: none;
     }
