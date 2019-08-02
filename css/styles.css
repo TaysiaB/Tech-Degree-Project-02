@@ -211,12 +211,12 @@ footer h2 {
     }
 
     .profile-p {
-        padding-right: 30px;
+        margin-right: 15px;
         margin-left: 15px;
     }
 
     p {
-        padding: 30px;
+        margin: 30px;
     }
 
     .clearfix::after {
