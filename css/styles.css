@@ -254,4 +254,8 @@ footer h2 {
         float: left;
         width: 33.3%;
     }
+
+    .profile-p {
+        width: 35%;
+    }
 }
