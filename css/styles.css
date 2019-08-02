@@ -257,5 +257,6 @@ footer h2 {
 
     .profile-p {
         width: 55%;
+        text-align: left;
     }
 }
