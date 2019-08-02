@@ -170,6 +170,7 @@ footer h2 {
 
     .nav-bottom li {
         Font-size: 1em; 
+        line-height: 0;
     }
     
     .nav {
@@ -205,6 +206,7 @@ footer h2 {
     .footer-name {
         margin-bottom: 30px;
         font-size: 1em;
+        line-height: .9;
     }
 
     .back-to-top {
