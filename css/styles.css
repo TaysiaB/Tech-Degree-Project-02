@@ -166,7 +166,6 @@ footer h2 {
     li {
         display: inline-block;
         background: none;
-        padding: 5px;
     }
     
     .nav {
@@ -202,7 +201,7 @@ footer h2 {
     .footer-name {
         margin-bottom: 30px;
     }
-    
+
     .back-to-top {
         display: none;
     }
