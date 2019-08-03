@@ -78,6 +78,10 @@ li {
     width: 100%;
 }
 
+#skills p {
+    margin: 0 auto;
+}
+
 /*----Base Markup Styles----*/
 
 a,
